@@ -1,0 +1,25 @@
+{
+  "name": "edp-build-parallel",
+  "version": "0.1.0",
+  "description": "edp-build parallelly",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecomfe/edp-build-parallel.git"
+  },
+  "files": ["index.js"],
+  "keywords": [
+    "edp",
+    "build",
+    "parallel"
+  ],
+  "author": "junmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecomfe/edp-build-parallel/issues"
+  },
+  "homepage": "https://github.com/ecomfe/edp-build-parallel",
+  "dependencies": {
+    "extend": "^2.0.0"
+  }
+}
