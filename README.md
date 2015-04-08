@@ -7,8 +7,8 @@
 [downloads-image]: http://img.shields.io/npm/dm/edp-build-parallel.svg
 [npm-url]: https://npmjs.org/package/edp-build-parallel
 [npm-image]: http://img.shields.io/npm/v/edp-build-parallel.svg
-[dep-url]: https://david-dm.org/ecomfe/edp-build-parallel
-[dep-image]: http://img.shields.io/david/ecomfe/edp-build-parallel.svg
+[dep-url]: https://david-dm.org/junmer/edp-build-parallel
+[dep-image]: http://img.shields.io/david/junmer/edp-build-parallel.svg
 
 > edp-build parallelly
 
