@@ -26,7 +26,9 @@ exports.getProcessors = function () {
     var addCopyright = new AddCopyright();
     var outputCleaner = new OutputCleaner();
 
-    var afterProcessor = new ParallelProcessor([ addCopyright, outputCleaner ]); // 并行处理
+    var afterProcessor = new ParallelProcessor([
+        addCopyright, outputCleaner
+    ]); // 并行处理
 
     return [ jsProcessor, afterProcessor ];     // 串行处理
 
