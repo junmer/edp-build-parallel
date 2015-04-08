@@ -1,6 +1,6 @@
 {
   "name": "edp-build-parallel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "edp-build parallelly",
   "main": "index.js",
   "repository": {
